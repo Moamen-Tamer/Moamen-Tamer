@@ -84,6 +84,21 @@
   </tr>
 </table>
 
+<h2 align="left" id="timeline">Backend development timeline</h2>
+
+<!-- This section is generated from timeline.tsv. -->
+<!-- START_TIMELINE -->
+
+| Period | Milestone |
+| --- | --- |
+| 2024 | Started a Bachelor of Computer Science at M.E.T Institute. |
+| 2025 | Built foundational JavaScript, TypeScript, PHP, and SQL projects. |
+| 2026 | Focused on Node.js, Express, PostgreSQL, MongoDB, Redis, authentication, and API architecture. |
+| 2026 | Built Social API, CourseHub, MovieStore API v2, and the EliteGym backend. |
+| Current | Improving database security, transaction safety, caching, testing, and backend system design. |
+
+<!-- END_TIMELINE -->
+
 <h2 align="left" id="contact">Let's connect</h2>
 
 <p align="left">
