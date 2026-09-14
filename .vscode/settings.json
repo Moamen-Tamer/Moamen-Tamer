@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Moamen",
+    "PostgreSQL",
+    "Supabase",
+    "CourseHub",
+    "EliteGym",
+    "MovieStore"
+  ],
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.renderIndentGuides": true,
+  "files.eol": "\n"
+}
