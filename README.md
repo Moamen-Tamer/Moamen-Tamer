@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="tech">Tools I use</h2>
+<h2 align="center" id="tech">Tools I use</h2>
 
 <table>
   <tr>
