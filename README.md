@@ -66,7 +66,7 @@
 
 <h2 align="center" id="tech">Tools I use</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" /><br>Node.js</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /><br>TypeScript</td>
