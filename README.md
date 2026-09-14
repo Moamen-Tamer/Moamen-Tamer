@@ -70,10 +70,10 @@
   <tr>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" /><br>Node.js</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express" /><br>Express</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" /><br>PostgreSQL</td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express" /><br>Express</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis" /><br>Redis</td>
   </tr>
